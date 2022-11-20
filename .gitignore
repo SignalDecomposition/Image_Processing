@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+#ignore all docx files
+*.docx
+#ignore all pdf files
+*.pdf
+
+EX_1/
